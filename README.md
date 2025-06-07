@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Rafaela Oliveira
 
-🎓 Estudante de Técnico em Desenvolvimento de Sistemas  
+🎓 Técnico em Desenvolvimento de Sistemas  
 💻 Programadora Júnior Front-end  
 🌱 Curiosa por natureza — gosto de aprender um pouco de tudo, ainda explorando a área que mais me identifico
 
