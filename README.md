@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou a Rafaela Oliveira
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas  
-💻 Programadora Júnior com foco atual em **Front-end**  
-📚 Atualmente estudando: Java, C#, MAUI e MySQL  
+💻 Programadora Júnior Front-end  
 🌱 Curiosa por natureza — gosto de aprender um pouco de tudo, ainda explorando a área que mais me identifico
 
 ---
@@ -11,7 +10,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" /> &nbsp;
-<img src="https://raw.githubusercontent.com/dotnet/maui/main/src/Assets/dotnet-maui.png" width="40" title=".NET MAUI" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
 
 ---
