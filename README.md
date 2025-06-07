@@ -40,7 +40,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-oliveira21&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" width="280" alt="Linguagens mais usadas no GitHub da Rafaela" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaela-oliveira21&theme=tokyonight&hide_border=true&locale=pt_BR" width="560" alt="Streak de contribuições no GitHub da Rafaela" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaela-oliveira21&theme=tokyonight&hide_border=true&locale=pt_BR" width="500" alt="Streak de contribuições no GitHub da Rafaela" />
 </div>
 
 ---
