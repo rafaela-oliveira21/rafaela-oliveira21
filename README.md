@@ -35,9 +35,18 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaela-oliveira21&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-oliveira21&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+
+  <!-- Estatísticas principais com tema "tokyonight" -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaela-oliveira21&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+  <!-- Gráfico dos principais idiomas usados, estilo donut -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-oliveira21&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" />
+
+  <!-- Streak de contribuições -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaela-oliveira21&theme=tokyonight" />
+
 </div>
+
 
 ---
 
