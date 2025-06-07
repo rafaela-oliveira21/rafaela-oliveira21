@@ -7,45 +7,47 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
 ### 📘 Estudando atualmente:
-<div style="display: flex; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="40" title=".NET MAUI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-</div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" /> &nbsp;
+<img src="https://raw.githubusercontent.com/dotnet/maui/main/src/Assets/dotnet-maui.png" width="40" title=".NET MAUI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
 
 ---
 
 ### 💻 Já utilizei:
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="40" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="Database Design" />
-</div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="Database Design" />
+
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-oliveira21&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" width="300" />
+      <br>Linguagens Usadas
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rafaela-oliveira21&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="300" />
+      <br>Estatísticas Gerais
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaela-oliveira21&theme=tokyonight" width="300" />
+      <br>Streak de Contribuições
+    </td>
+  </tr>
+</table>
 
-  <!-- Estatísticas principais com tema "tokyonight" -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaela-oliveira21&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-
-  <!-- Gráfico dos principais idiomas usados, estilo donut -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-oliveira21&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" />
-
-  <!-- Streak de contribuições -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaela-oliveira21&theme=tokyonight" />
-
-</div>
 
 
 ---
