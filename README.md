@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Rafaela Oliveira
+# 👋 Olá! Eu sou a Rafaela
 
 🎓 Técnico em Desenvolvimento de Sistemas  
 💻 Programadora Júnior Front-end  
@@ -12,13 +12,18 @@
   <div class="tech-block">
     <h3>📘 Estudando atualmente</h3>
     <div class="tech-icons">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" title=".NET MAUI" />
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
+      <div style="margin-bottom: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" title=".NET MAUI" />
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+      </div>
     </div>
   </div>
 
@@ -39,8 +44,10 @@
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-oliveira21&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" width="280" alt="Linguagens mais usadas no GitHub da Rafaela" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaela-oliveira21&theme=tokyonight&hide_border=true&locale=pt_BR" width="500" alt="Streak de contribuições no GitHub da Rafaela" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-oliveira21&layout=donut&langs_count=8&theme=solarized-light&hide_border=true" width="330" alt="Linguagens mais usadas no GitHub da Rafaela" />
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaela-oliveira21&theme=solarized-light&hide_border=true&locale=pt_BR" width="500" alt="Streak de contribuições no GitHub da Rafaela" />
+
 </div>
 
 ---
