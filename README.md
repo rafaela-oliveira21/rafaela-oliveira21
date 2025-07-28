@@ -4,9 +4,7 @@
 ## About Me ✨
 
 🎓 Currently studying Systems Development at Etec Professor Horácio Augusto da Silveira
-
 💻 Junior Front-end Developer
-
 🌱 Naturally curious — I enjoy learning a bit of everything and I'm still exploring which area I connect with the most
 
 ---
@@ -35,7 +33,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=rafaela-oliveira21&show_icons=true&theme=transparent&hide_border=true" width="380" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaela-oliveira21&theme=transparent&hide_border=true&locale=pt_BR" width="380" alt="Streak de contribuições no GitHub da Rafaela" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaela-oliveira21&theme=transparent&hide_border=true&locale=pt_BR" width="380" alt="Streak de contribuições no GitHub da Rafaela"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela-oliveira21&layout=compact&langs_count=8&theme=transparent&hide_border=true" width="340" />
   
 </div>
