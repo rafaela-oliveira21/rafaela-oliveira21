@@ -3,9 +3,9 @@
 
 ## About Me ✨
 
-🎓 Currently studying Systems Development at Etec Professor Horácio Augusto da Silveira
-💻 Junior Front-end Developer
-🌱 Naturally curious — I enjoy learning a bit of everything and I'm still exploring which area I connect with the most
+🎓 Currently studying Systems Development at Etec Professor Horácio Augusto da Silveira <br>
+💻 Junior Front-end Developer <br>
+🌱 Naturally curious — I enjoy learning a bit of everything and I'm still exploring which area I connect with the most <br>
 
 ---
 ## 📖  Currently Studying and Practicing
